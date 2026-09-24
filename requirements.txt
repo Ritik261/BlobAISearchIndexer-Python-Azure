@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pydantic-settings
+
+azure-storage-blob
+azure-search-documents
+openai
+
+python-dotenv
